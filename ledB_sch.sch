@@ -2736,12 +2736,7 @@ by exp-lbrs.ulp</description>
 <pad name="1" x="-1.27" y="0" drill="1" shape="long" rot="R90"/>
 <pad name="2" x="1.27" y="0" drill="1" shape="long" rot="R90"/>
 <text x="-2.6162" y="1.8288" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
-<text x="-2.54" y="-4.445" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
-<wire x1="0.635" y1="-2.54" x2="1.27" y2="-2.54" width="0.127" layer="21"/>
-<wire x1="1.27" y1="-2.54" x2="1.905" y2="-2.54" width="0.127" layer="21"/>
-<wire x1="-1.905" y1="-2.54" x2="-0.635" y2="-2.54" width="0.127" layer="21"/>
-<wire x1="1.27" y1="-2.54" x2="1.27" y2="-3.175" width="0.127" layer="21"/>
-<wire x1="1.27" y1="-2.54" x2="1.27" y2="-1.905" width="0.127" layer="21"/>
+<text x="-2.54" y="-2.54" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
 <package name="DIL08">
 <description>&lt;b&gt;Dual In Line Package&lt;/b&gt;</description>
